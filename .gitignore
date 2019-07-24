@@ -1,0 +1,11 @@
+# IDEs
+.vscode/*
+.idea/*
+
+# Compiled stuff
+*.pyc
+
+# pycache
+.__pycache__/*
+.cogs/__pycache__/*
+.listings/__pycache__/*
