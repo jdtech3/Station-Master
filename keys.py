@@ -4,4 +4,4 @@
 #
 # Copyright (c) 2019 Joe Dai.
 
-TOKEN = 'NjAyNjc2MDI5ODE4OTI5MTYy.XTUUbg.dUrakGvJ6gRBDWsVPlfdBhxTHH4'
+TOKEN = ''

@@ -1,3 +1,5 @@
+***— Unmaintained / archived —***
+
 # Station Master
 
 Discord bot for P&W Discord Station. Lists businesses and alliances in an easy-to-read embed format.
